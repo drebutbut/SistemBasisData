@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+}
+
+.judul{
+    text-align: center;
+}
+
+#header-2{
+    margin-top: 30px;
+}
+
+#text-main{
+    text-indent: 30px;
+}
+
+#button-cari{
+    margin-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
